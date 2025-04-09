@@ -1,5 +1,16 @@
-4/8/22025 2:07 added Changelog
+4/8/2025 14:07 added Changelog
 Set Username: groupname
 password: Ove#3rkill
 
 Password for cracklib:Overkill#3
+
+4/9/2025 2:09
+	Set up Rasberry pi
+	Usernames:
+		groupname
+		plederer
+		ewrigh
+	Password:
+		Ove#3rkill
+
+	Still need to finish setting up the remote access
