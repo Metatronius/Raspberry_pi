@@ -14,3 +14,5 @@ Password for cracklib:Overkill#3
 		Ove#3rkill
 
 	Still need to finish setting up the remote access
+4/15/2025 16:01
+	Added git access from raspi
