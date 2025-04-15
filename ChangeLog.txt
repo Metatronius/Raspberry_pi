@@ -17,4 +17,4 @@ Password for cracklib:Overkill#3
 4/15/2025 16:01
 	Added git access from raspi
 	16:19
-	added ewrigh git access
+	added ewrigh git access .
